@@ -1,0 +1,17 @@
+---
+mruby_version:
+  version: 2.1.0
+  release_no: 20100
+builds:
+  riscv-with-io:
+    https://github.com/xxuejie/mruby-json.git:
+      url: https://github.com/xxuejie/mruby-json.git
+      branch: master
+      commit: 965e237c842668be5c4002f6f923253719d6e3b5
+      version: 0.0.0
+  riscv-without-io:
+    https://github.com/xxuejie/mruby-json.git:
+      url: https://github.com/xxuejie/mruby-json.git
+      branch: master
+      commit: 965e237c842668be5c4002f6f923253719d6e3b5
+      version: 0.0.0
