@@ -1,4 +1,4 @@
-# ckb-duktape
+# ckb-mruby
 
 [mruby](http://mruby.org/) build for CKB environment
 
